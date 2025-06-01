@@ -52,9 +52,9 @@ const Footer = () => {
               <li className="flex items-start">
                 <MapPin className="mr-2 text-green-400 flex-shrink-0 mt-1" size={18} />
                 <span className="text-gray-300">
-                  Department of Computer Science<br />
-                  University Research Center<br />
-                  123 Innovation Drive
+                  Department of Software Engineering<br />
+                  Sri Lanka Institute of Information Technology<br />
+                  Malabe, Sri Lanka
                 </span>
               </li>
               <li className="flex items-center">
